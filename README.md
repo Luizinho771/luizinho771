@@ -34,6 +34,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## Stats <img width="30" src="https://github.com/Luizinho771/luizinho771/assets/54192152/39b80835-b210-4339-a90f-fa48f8150be2" alt="party blob" />
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizinho771&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizinho771&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **Luizinho771/luizinho771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

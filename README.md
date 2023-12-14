@@ -39,7 +39,10 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizinho771&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizinho771&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div
+  
+![Snake animation](https://github.com/Luizinho771/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Luizinho771/luizinho771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
